@@ -15,9 +15,9 @@ public class Quiz {
 
     public void inicializaQuiz() {
         // Cabeçalho
-        System.out.println("Faculdade XYZ");
-        System.out.println("Nome do Aluno: Seu Nome Completo");
-        System.out.println("Professor: Nome do Professor");
+        System.out.println("Faculdade: Centro Universitario Alfredo Nasser");
+        System.out.println("Aluno:Chrystian Alexandre Cardoso Tokio");
+        System.out.println("Professor:Brenno Pimenta");
         System.out.println("Bem-vindo ao Quiz de Ciência! Você irá responder 15 perguntas.");
         System.out.println("");
 
