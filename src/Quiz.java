@@ -31,6 +31,8 @@ public class Quiz {
     private void adicionarQuestoes() {
         questoes.add(criarQuestao("Qual é a fórmula da água?", "A) H2O", "B) CO2", "C) O2", "D) H2", "E) N2", "A"));
         questoes.add(criarQuestao("Qual é o planeta mais próximo do sol?", "A) Terra", "B) Marte", "C) Mercúrio", "D) Vênus", "E) Júpiter", "C"));
+        questoes.add(criarQuestao("De quem é a famosa frase 'Penso, logo existo'?", "A) Platão", "B) Galileu", "C) Descartes", "D) Sócrates", "E) Francis Bacon", "C"));
+        questoes.add(criarQuestao("Quais os países que têm a maior e a menor expectativa de vida do mundo?", "A) Japão e Serra Leoa", "B) Austrália e Afeganistão", "C) Itália e Chade", "D) Brasil e Congo", "E) Estados Unidos e Angola", "A"));
         // Adicione mais 13 questões
     }
 
