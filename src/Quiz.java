@@ -35,6 +35,8 @@ public class Quiz {
         questoes.add(criarQuestao("Quais os países que têm a maior e a menor expectativa de vida do mundo?", "A) Japão e Serra Leoa", "B) Austrália e Afeganistão", "C) Itália e Chade", "D) Brasil e Congo", "E) Estados Unidos e Angola", "A"));
         questoes.add(criarQuestao("Quanto tempo a luz do sol demora a chegar à Terra'?", "A) 12 minutos", "B) 1 dia", "C) 12 horas", "D) 8 minutos", "E) 12 segundos", "D"));
         questoes.add(criarQuestao("Em que período da pré-história o fogo foi descoberto?", "A) Neolítico", "B) Paleolítico", "C) Idade dos Metais", "D) Período da Pedra Polida", "E) Idade Média", "B"));
+        questoes.add(criarQuestao("Qual foi o recurso utilizado pelo homem para explicar as origens das coisas?", "A) A Filosofia", "B) A Biologia", "C) A Matemática", "D) A Astronomia", "E) A Mitologia", "E"));
+        questoes.add(criarQuestao("Qual é o maior animal terrestre?", "A) Baleia Azul", "B) Dinossauro", "C) Elefante Africano", "D) Tubarão Branco", "E) Girafa", "C"));
         // Adicione mais 13 questões
     }
 
