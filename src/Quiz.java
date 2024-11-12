@@ -39,6 +39,8 @@ public class Quiz {
         questoes.add(criarQuestao("Qual é o maior animal terrestre?", "A) Baleia Azul", "B) Dinossauro", "C) Elefante Africano", "D) Tubarão Branco", "E) Girafa", "C"));
         questoes.add(criarQuestao("Quem foi o primeiro homem a pisar na lua? Em que ano aconteceu?", "A) Yuri Gagarin, em 1961", "B) Buzz Aldrin, em 1969", "C) Charles Conrad, em 1969", "D) Charles Duke, em 1971", "E) Neil Armstrong, em 1969", "E"));
         questoes.add(criarQuestao("As pessoas de qual tipo sanguíneo são consideradas doadores universais?", "A) Tipo A", "B) Tipo B", "C) Tipo O", "D) Tipo AB", "E) Tipo ABO", "C"));
+        questoes.add(criarQuestao("A que temperatura a água ferve? ", "A) 200°C", "B) -10°C", "C) 180°C", "D) 0°C", "E) 100°C", "E"));
+        questoes.add(criarQuestao("Quantos ossos temos no nosso corpo?", "A) 126", "B) 206", "C) 18", "D) 300", "E) 200", "B"));
         // Adicione mais 13 questões
     }
 
