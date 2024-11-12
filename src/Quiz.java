@@ -41,7 +41,10 @@ public class Quiz {
         questoes.add(criarQuestao("As pessoas de qual tipo sanguíneo são consideradas doadores universais?", "A) Tipo A", "B) Tipo B", "C) Tipo O", "D) Tipo AB", "E) Tipo ABO", "C"));
         questoes.add(criarQuestao("A que temperatura a água ferve? ", "A) 200°C", "B) -10°C", "C) 180°C", "D) 0°C", "E) 100°C", "E"));
         questoes.add(criarQuestao("Quantos ossos temos no nosso corpo?", "A) 126", "B) 206", "C) 18", "D) 300", "E) 200", "B"));
-        // Adicione mais 13 questões
+        questoes.add(criarQuestao("Qual a maior floresta tropical do mundo?", "A) Mata Atlântica", "B) Pampas", "C) Pantanal", "D) Floresta Amazônica", "E) Caatinga", "D"));
+        questoes.add(criarQuestao("Kryptonita é a fraqueza de qual super-héroi? ", "A) Batman", "B) Hulk", "C) Super-Homem", "D) Capitão América", "E) Flash", "C"));
+        questoes.add(criarQuestao("Quem é conhecido como o 'Pai da Computação'?", "A) George Boole", "B) John Von Neumann", "C) Konrad Zuse", "D) Alan Turing", "E) John McCarthy", "D"));
+
     }
 
     private Questao criarQuestao(String pergunta, String a, String b, String c, String d, String e, String correta) {
